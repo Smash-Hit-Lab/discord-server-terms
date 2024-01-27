@@ -1,3 +1,5 @@
+# Discord Server Guidelines
+
 - Don't use rich text (*italic*, **bold**, ~~strikeout~~, etc.) excessively.
   It may look out of place and/or look overused.
 - If you want to ask a question, just ask! No need to ping anyone or ask if you
