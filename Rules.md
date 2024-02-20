@@ -10,8 +10,8 @@
 
 ## Enforcement
 
-* Rule 1, 2 and 3: First srike is a 1 week timeout, srike 2 is a ban. An immediate ban can be made for severe cases.
-* Rule 4, 5, 6 and 7: First strike is 1 day timeout, srike 2 and 3 are a 1 week timeout and then srike 4 is a ban.
+* Rule 1, 2 and 3: First strike is a 1 week timeout, strike 2 is a ban. An immediate ban can be made for severe cases.
+* Rule 4, 5, 6 and 7: First strike is a 1 day timeout, strike 2 and 3 are a 1 week timeout and then strike 4 is a ban.
 
 ## Guidelines
 
